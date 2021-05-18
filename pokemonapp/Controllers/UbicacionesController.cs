@@ -23,6 +23,32 @@ namespace pokemonapp.Controllers
             return View(pueblos);
         }
 
+         public IActionResult Entrenador() {
+            var Entrenador = _context.Entrenadores.Include(x => x.Pueblo).OrderBy(r => r.Nombre).ToList();
+            return View(Entrenador);
+        }
+
+         public IActionResult NuevoEntrenador() {
+            ViewBag.Entrenadores = _context.Entrenadores.ToList().Select(r => new SelectListItem(r.Nombre, r.Id.ToString()));
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult NuevoEntrenador(Entrenador r) {
+            if (ModelState.IsValid) {
+                _context.Add(r);
+                _context.SaveChanges();
+                return RedirectToAction("NuevoEntrenadorConfirmacion");
+            }
+            return View(r);
+        }
+
+        public IActionResult NuevoEntrenadorConfirmacion() {
+            return View();
+        }
+
+
+
         public IActionResult NuevoPueblo() {
             ViewBag.Regiones = _context.Regiones.ToList().Select(r => new SelectListItem(r.Nombre, r.Id.ToString()));
             return View();
@@ -73,6 +99,22 @@ namespace pokemonapp.Controllers
             var region = _context.Regiones.Find(id);
             return View(region);
         }
+
+         [HttpPost]
+        public IActionResult BorrarEntrenador(int id) {
+            var entrenador = _context.Entrenadores.Find(id);
+            _context.Remove(entrenador);
+            _context.SaveChanges();
+
+            return RedirectToAction("Entrenadores");
+        }
+
+        public IActionResult EditarEntrenador(int id) {
+            var entrenador = _context.Entrenadores.Find(id);
+            return View(entrenador);
+        }
+
+
 
         [HttpPost]
         public IActionResult EditarRegion(Region r) {

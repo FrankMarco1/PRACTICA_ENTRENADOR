@@ -6,5 +6,7 @@ namespace pokemonapp.Models
         public string Nombre { get; set; }
         public string Foto { get; set; }
         public Pueblo Pueblo { get; set; }
+
+        public int PuebloId { get; set; }
     }
 }

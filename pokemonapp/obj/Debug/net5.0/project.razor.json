@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\pokemonapp.csproj",
+  "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\pokemonapp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,77 +15619,97 @@
   "RootNamespace": "pokemonapp",
   "Documents": [
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\NuevoPueblo.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\NuevoPueblo.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\NuevoPuebloConfirmacion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\NuevoPuebloConfirmacion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\EditarRegionConfirmacion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\EditarRegionConfirmacion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\NuevaRegion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\NuevaRegion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\Regiones.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\Regiones.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\NuevoPuebloConfirmacion.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\NuevoPuebloConfirmacion.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\EditarRegion.cshtml",
-      "TargetPath": "Views\\Ubicaciones\\EditarRegion.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\Pueblos.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\Entrenador.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\Entrenador.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\Pueblos.cshtml",
       "TargetPath": "Views\\Ubicaciones\\Pueblos.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\EditarEntrenador.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\EditarEntrenador.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\EditarRegionConfirmacion.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\EditarRegionConfirmacion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\EditarEntrenadorConfirmacion.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\EditarEntrenadorConfirmacion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\Ubicaciones\\NuevaRegionConfirmacion.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\NuevaRegionConfirmacion.cshtml",
       "TargetPath": "Views\\Ubicaciones\\NuevaRegionConfirmacion.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\pokemonapp\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\EditarRegion.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\EditarRegion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\Regiones.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\Regiones.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\NuevoEntranador.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\NuevoEntranador.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\NuevoPueblo.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\NuevoPueblo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\Ubicaciones\\NuevaRegion.cshtml",
+      "TargetPath": "Views\\Ubicaciones\\NuevaRegion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\practica entrenador\\PRACTICA_ENTRENADOR\\PRACTICA_ENTRENADOR\\pokemonapp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
